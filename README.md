@@ -1,7 +1,6 @@
 # Fast Checkerboard Demodulation for Background Oriented Schlieren (BOS)
-Fast Checkerboard Demodulation for Background Oriented Schlieren (BOS) in python
-
-This is completely based on the work from Sander Wildeman: https://github.com/swildeman/fcd
+Fast Checkerboard Demodulation for Background Oriented Schlieren (BOS) in python.
+This is based on the work of Sander Wildeman written in MATLAB: https://github.com/swildeman/fcd
 
 
 # Usage
