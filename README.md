@@ -7,8 +7,8 @@ This is completely based on the work from Sander Wildeman: https://github.com/sw
 # Usage
 To use pyBOS for a single image or multiple sequence of images, run `pyBOS` as a program via `terminal` or `cmd`.
 
-  ## Get help using:
-  `python -m pyBOS -h`
+Get help using:
+`python -m pyBOS -h`
 
 # Dependencies:
 Python >= 3.8 and the following packages:
