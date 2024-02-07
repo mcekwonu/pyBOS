@@ -21,4 +21,4 @@ Python >= 3.8 and the following packages:
 
 # References:
 The detailed description of algorithm can be found in: 
-`Wildeman, S. Real-time quantitative Schlieren imaging by fast Fourier demodulation of a checkered backdrop. Exp Fluids 59, 97 (2018). https://doi.org/10.1007/s00348-018-2553-9`
+Wildeman, S. Real-time quantitative Schlieren imaging by fast Fourier demodulation of a checkered backdrop. Exp Fluids 59, 97 (2018). https://doi.org/10.1007/s00348-018-2553-9
