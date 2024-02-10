@@ -3,13 +3,12 @@ Fast Checkerboard Demodulation for Background Oriented Schlieren (BOS) in python
 
 This is based on the work of Sander Wildeman written in MATLAB: https://github.com/swildeman/fcd
 
-- **[ ]  Codes will be uploaded soon...**
+** -[ ]  Codes will be uploaded soon...**
 
 
 # Usage
 To use pyBOS for a single image or multiple sequence of images, run `pyBOS` as a program via `terminal` or `cmd`.
-
-
+ 
 Run `python -m pyBOS -h` to get usage.
 
 # Dependencies:
