@@ -18,6 +18,7 @@ Python >= 3.8 and the following packages:
 - Scipy
 - Opencv-python
 - skimage
+  
 
 > [!NOTE]
 > The detailed description of algorithm can be found in[^1]: 
